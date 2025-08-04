@@ -1,6 +1,6 @@
 ## Hola, soy Oriana 👋
 
-Soy una estudiante de Ingeniería de Sistemas, apasionada por el mundo de la programación. Actualmente, me dedico a desarrollar proyectos personales para lograr superarme cada día, me destaco en el área del Backend pero sigo trabajando activamente para mejorar mis habilidades en el área del Frontend.
+Soy una estudiante de **Ingeniería de Sistemas**, apasionada por el mundo de la programación. Actualmente, me dedico a desarrollar proyectos personales para lograr superarme cada día, me destaco en el área del **Backend** pero sigo trabajando activamente para **mejorar** mis habilidades en el área del **Frontend**.
 
 Busco explotar mis habilidades en la programación en proyectos significativos que desafíen mis conocimientos para lograr trabajar en equipos con personas experimentadas y me ayuden a crecer como Desarrolladora de Software.
 
